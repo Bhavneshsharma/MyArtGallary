@@ -5,7 +5,13 @@ This is a sample project which use bellow things :
 1. MVVM architecture
 2. Room DataBse
 3. Retrofit
-4. Hilt 
-5. Unit Test : JUnit4, Esspresso, Roboelectric Test
+4. Hilt (dependecy Injection)
+5. Navigation with safeArg (Jetpack component)
+6. Glide (Image Library)
+
+7. Unit Test : 
+      1. JUnit4
+      2. Esspresso
+      3. Roboelectric Test
 
 Use Pixabay Api for geting Image Data.
