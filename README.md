@@ -9,6 +9,7 @@ This is a sample project which use bellow things :
 5. Navigation with safeArg (Jetpack component)
 6. Glide (Image Library)
 7. ViewBinding
+8. coroutiens
 
 this code is also cover with Unit Test like :
 
