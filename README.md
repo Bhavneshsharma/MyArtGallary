@@ -10,6 +10,7 @@ This is a sample project which use bellow things :
 6. Glide (Image Library)
 7. ViewBinding
 8. coroutiens
+9. Live Data
 
 this code is also cover with Unit Test like :
 
