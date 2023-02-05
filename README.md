@@ -4,7 +4,7 @@ This is a sample project which use bellow things :
 
 1. MVVM architecture
 2. Room DataBse
-3. Retrofit
+3. Retrofit with Gson convertor
 4. Hilt (dependecy Injection)
 5. Navigation with safeArg (Jetpack component)
 6. Glide (Image Library)
